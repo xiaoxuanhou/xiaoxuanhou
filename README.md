@@ -23,7 +23,8 @@ Some of my old projects can be found at https://github.com/xiaoxuanh
 - **Applied AI**
   - Graph-based **knowledge retrieval**, particularly for code and structured reasoning
   - Deploying AI-based **workforce scheduling systems** and evaluating them against human-managed baselines
-  - Building applied AI systems for **personal efficiency**, including tools that automate job search, literature review (and more)
+  - Building applied AI systems for **personal productivity**
+    - [jobflow-ai](https://github.com/xiaoxuanhou/jobflow-ai): automated job search, resume tailoring, and LinkedIn outreach planning that can be executed on a daily basis.
 
 ---
 
