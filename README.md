@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I’m an Applied Scientist
 
-<!--
-**xiaoxuanhou/xiaoxuanhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work at the intersection of **operations research and applied AI**, focused on building **decision-making systems that operate under real-world uncertainty**.
 
-Here are some ideas to get you started:
+My work blends optimization, simulation, and learning to produce systems that are robust, interpretable, and deployable—not just benchmark-friendly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some of my old projects can be found at https://github.com/xiaoxuanh
+
+---
+
+## 🔍 What I Work On
+
+- **Optimization & OR x AI**
+  - Stochastic optimization, planning, and simulation
+  - Decision-making under uncertainty
+  - Hybrid OR + ML systems that combine optimization, learning, and heuristics
+
+- **Multi-Agent Systems**
+  - Designing end-to-end **Multi-Agent environments and simulators**
+  - Modeling coordination, competition, **emergent behavior**, and ultimately **AI safety**
+  - Studying system-level effects from agent interactions in shared environments
+
+- **Applied AI**
+  - Graph-based **knowledge retrieval**, particularly for code and structured reasoning
+  - Deploying AI-based **workforce scheduling systems** and evaluating them against human-managed baselines
+  - Building applied AI systems for **personal efficiency**, including tools that automate job search, literature review (and more)
+
+---
+
+## 🎯 What I Care About
+
+- Practical impact over toy results  
+- Robustness under noise, scale, and misspecification  
+- Using AI to **augment human productivity**, not replace judgment
