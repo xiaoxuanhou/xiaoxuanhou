@@ -1,6 +1,6 @@
-# 👋 Hi, I’m an Applied Scientist
+# 👋 Hi there,
 
-I work at the intersection of **operations research and applied AI**, focused on building **decision-making systems that operate under real-world uncertainty**.
+I'm an applied scientist working at the intersection of **operations research and applied AI**, focused on building **decision-making systems that operate under real-world uncertainty**.
 
 My work blends optimization, simulation, and learning to produce systems that are robust, interpretable, and deployable—not just benchmark-friendly.
 
