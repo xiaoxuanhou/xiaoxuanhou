@@ -14,6 +14,7 @@ Some of my old projects can be found at https://github.com/xiaoxuanh
   - Stochastic optimization, planning, and simulation
   - Decision-making under uncertainty
   - Hybrid OR + ML systems that combine optimization, learning, and heuristics
+    - [Storage-with-DP](https://github.com/xiaoxuanhou/Storage-with-DP): stochastic DP with embedded time series price model and clustering based state space management to achieve tractable optimal real-time energy storage control. 
 
 - **Multi-Agent Systems**
   - Designing end-to-end **Multi-Agent environments and simulators**
