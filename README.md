@@ -31,4 +31,4 @@ Some of my old projects can be found at https://github.com/xiaoxuanh
 
 - Practical impact over toy results  
 - Robustness under noise, scale, and misspecification  
-- Using AI to **augment human productivity**, not replace judgment
+- Using AI to **augment human productivity** and **improve decision-making**
