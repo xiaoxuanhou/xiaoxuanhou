@@ -17,6 +17,7 @@ Some of my old projects can be found at https://github.com/xiaoxuanh
 
 - **Multi-Agent Systems**
   - Designing end-to-end **Multi-Agent environments and simulators**
+    - [InvestESG](https://github.com/yuanjiayiy/InvestESG): an environment studying how multiple AI agents behave and interact in a realistic and complex intertemporal social dilemma.
   - Modeling coordination, competition, **emergent behavior**, and ultimately **AI safety**
   - Studying system-level effects from agent interactions in shared environments
 
